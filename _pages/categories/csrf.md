@@ -1,5 +1,5 @@
 ---
-title: "csrf"
+title: "CSRF"
 layout: archive
 permalink: categories/csrf
 author_profile: true
