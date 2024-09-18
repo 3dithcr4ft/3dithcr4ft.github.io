@@ -1,10 +1,11 @@
 ---
 title: "XSS"
-layout: category
-parent: "Web Application Security"
-permalink: /categories/web-application-security/xss/
-taxonomy: XSS
+layout: archive
+permalink: categories/xss
+author_profile: true
+types: posts
 ---
+
 {% assign posts = site.categories['xss']%}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
