@@ -1,5 +1,5 @@
 ---
-title: "sql-injection"
+title: "SQL Injection"
 layout: archive
 permalink: /sql-injection
 ---

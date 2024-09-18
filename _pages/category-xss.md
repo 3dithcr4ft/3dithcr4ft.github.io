@@ -1,5 +1,5 @@
 ---
-title: "xss"
+title: "XSS"
 layout: archive
 permalink: /xss
 ---
