@@ -1,5 +1,5 @@
 # main links
-# main:
+ main:
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -9,12 +9,14 @@
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
   docs:
-  - title: Web Application Security
+  - title: "Web Application Security"
+    url: /categories/web-application-security/
     children:
       - title: "XSS"
-        url: /categories/xss
+        url: /categories/web-application-security/xss
       - title: "CSRF"
-        url: /categories/csrf
+        url: /categories/web-application-security/csrf
       - title: "SQL Injection"
-        url: /categories/sql-injection
+        url: /categories/web-application-security/sql-injection
