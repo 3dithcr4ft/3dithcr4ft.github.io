@@ -10,7 +10,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   docs:
-  - title: "Web Application Security"
+  - title: Web Application Security
     children:
       - title: "XSS"
         url: /categories/xss
