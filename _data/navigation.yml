@@ -10,13 +10,12 @@
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  docs:
+  sidebar-category:
   - title: "Web Application Security"
-    url: /categories/web-application-security/
     children:
       - title: "XSS"
-        url: /categories/web-application-security/xss
+        url: /xss
       - title: "CSRF"
-        url: /categories/web-application-security/csrf
+        url: /csrf
       - title: "SQL Injection"
-        url: /categories/web-application-security/sql-injection
+        url: /sql-injection
