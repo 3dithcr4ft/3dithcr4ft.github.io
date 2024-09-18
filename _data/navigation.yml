@@ -9,6 +9,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  docs:
   - title: "Web Application Security"
     children:
       - title: "XSS"
