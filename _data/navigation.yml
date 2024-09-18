@@ -14,8 +14,8 @@
   - title: "Web Application Security"
     children:
       - title: "XSS"
-        url: /xss
+        url: "/xss"
       - title: "CSRF"
-        url: /csrf
+        url: "/csrf"
       - title: "SQL Injection"
-        url: /sql-injection
+        url: "/sql-injection"
