@@ -1,7 +1,7 @@
 ---
 title: "SQL Injection"
 layout: archive
-permalink: /sql-injection
+permalink: categories/sql-injection
 ---
 
 
